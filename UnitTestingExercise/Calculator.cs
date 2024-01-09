@@ -7,7 +7,7 @@ namespace UnitTestingExercise
 
         // Right-click on the 'Dependencies' folder in your UnitTestingExercise.Tests project
         // and add your reference to the UnitTestingExercise project
-
+        // DONE
 
 
         // Step 2: Create an Add method that accepts 3 integers, adds those integers, and returns an integer
@@ -19,7 +19,7 @@ namespace UnitTestingExercise
 
 
         // Step 3: Navigate to the UnitTests.cs file and complete the AddTest unit test method 
-
+        // DONE
 
         // Step 4: 
         // Create a Subtract method that accepts 2 integers
